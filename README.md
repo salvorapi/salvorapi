@@ -12,7 +12,7 @@ class SolutionExpert:
 
     def __init__(self):
         self.name = "Salvo Rapisarda"
-        self.roles = ["Senior Developer", "Maanger", 
+        self.roles = ["Senior Developer", "Manager", "SysAdmin", "Cloud Expert"]
         self.language_spoken = ["it_IT", "en_US"]
 
     def say_hi(self):
