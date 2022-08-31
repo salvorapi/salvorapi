@@ -26,6 +26,8 @@ me.say_hi()
 ## 📝 Blogs
 
 - Personal website and blog: https://www.amministraturi.it
+- StackOverFlow Profile: https://stackoverflow.com/users/830105/blackat-net
+- LinkedIn: https://www.linkedin.com/in/salvorapi/
 
 ## 🔧 Technologies & Tools
 
